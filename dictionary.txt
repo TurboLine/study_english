@@ -141,6 +141,7 @@ There’s no need to feel lazy - Не нужно лениться
 though - хотя, однако
 typesetters - наборщик текста
 taking a nap - дремать
+transition - переходить
 
 until - до
 used to do - раньше делали. Used to означает, что раньше что-то делали, но в данный момент нет.
@@ -151,4 +152,6 @@ were common - были обычным явлением
 wooden - деревянный
 wear - носить
 works to keep - помогает
+worse  - худший, хуже, сильнее
+
 
